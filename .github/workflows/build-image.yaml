@@ -9,7 +9,7 @@ jobs:
 
     strategy: 
       matrix:
-        board: [volteer]
+        board: [brya, coral, corsola, dedede, grunt, hatch, jacuzzi, kefka, nissa, octopus, reks, volteer, zork]
 
     runs-on: ubuntu-latest
     steps:
