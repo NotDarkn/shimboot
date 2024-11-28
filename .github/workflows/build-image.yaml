@@ -9,7 +9,7 @@ jobs:
 
     strategy: 
       matrix:
-        board: [snappy]
+        board: [trogdor]
 
     runs-on: ubuntu-latest
     steps:
