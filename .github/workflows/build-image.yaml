@@ -9,7 +9,7 @@ jobs:
 
     strategy: 
       matrix:
-        board: [trogdor]
+        board: [octopus, dedede, nissa]
 
     runs-on: ubuntu-latest
     steps:
